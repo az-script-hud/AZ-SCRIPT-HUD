@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/az-script-hud/AZ-SCRIPT-HUD/refs/heads/main/AZ%20SCRIPT.lua"))()
